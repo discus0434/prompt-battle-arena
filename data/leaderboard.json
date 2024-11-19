@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Rick Astley",
+    "aesthetic_score": 0.0,
+    "imageBase64": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABaElEQVR42mL8//8/AyUY",
+    "prompt": "Never gonna give you up, never gonna let you down, never gonna run around and desert you.",
+    "negative_prompt": "Never gonna make you cry, never gonna say goodbye, never gonna tell a lie and hurt you."
+  }
+]

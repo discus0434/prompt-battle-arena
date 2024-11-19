@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/txt2img/static/css/main.ee59dfc2.css",
+    "main.js": "/txt2img/static/js/main.056f3b51.js",
+    "index.html": "/txt2img/index.html",
+    "main.ee59dfc2.css.map": "/txt2img/static/css/main.ee59dfc2.css.map",
+    "main.056f3b51.js.map": "/txt2img/static/js/main.056f3b51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee59dfc2.css",
+    "static/js/main.056f3b51.js"
+  ]
+}
